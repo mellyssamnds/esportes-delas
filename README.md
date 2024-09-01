@@ -141,8 +141,7 @@ $ npm run start:dev
 
 ## Documentação
 
-[Swagger](https://esportes-delas-1.onrender.com/home)<p>
-[Render](https://esportes-delas-1.onrender.com)
+[Swagger](https://esportes-delas.onrender.com/home)<p>
 
 ## Implementações futuras:
 + **Perfil das Treinadoras e Ex-Atletas**: Apresentar informações sobre as treinadoras e ex-atletas envolvidas no projeto, incluindo suas trajetórias e conquistas, para inspirar as meninas;
